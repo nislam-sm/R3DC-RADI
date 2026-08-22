@@ -1768,7 +1768,7 @@ If R³DC or the RADI protocol is useful in your work, please cite:
                Completion for Cross-Domain Sparse Perception},
   author    = {Mohammad, Noor Islam S. and Bayaz{\i}t, Ulu\u{g}},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-               Recognition (CVPR) Workshops --- 3D Geometry Generation for Scientific
+               Recognition (CVPR) Workshops on 3D Geometry Generation for Scientific
                Computing},
   year      = {2026}
 }
@@ -1813,8 +1813,8 @@ Dataset licenses are separate and remain with their owners: KITTI (CC BY-NC-SA 3
 
 | | |
 |---|---|
-| **Noor Islam S. Mohammad** | [mohammadn@itu.edu.tr](mailto:mohammadn@itu.edu.tr) |
-| **Uluğ Bayazıt** | [bayazit@itu.edu.tr](mailto:bayazit@itu.edu.tr) |
+| **Noor Islam S. Mohammad** | [islam23@itu.edu.tr](mailto:islam23@itu.edu.tr) |
+| **Uluğ Bayazıt** | [ulugbayazit@itu.edu.tr](mailto:ulugbayazit@itu.edu.tr) |
 | **Department** | Computer Engineering, Istanbul Technical University |
 | **Issues** | [GitHub Issues](https://github.com/yourusername/r3dc/issues) — bugs, feature requests |
 | **Discussions** | [GitHub Discussions](https://github.com/yourusername/r3dc/discussions) — usage questions |
