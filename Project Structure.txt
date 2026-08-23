@@ -1,0 +1,42 @@
+r3dc/
+├── configs/
+│   ├── __init__.py
+│   ├── default.py
+│   ├── kitti.py
+│   ├── nyu.py
+│   ├── visdrone.py
+│   └── drone_videos.py
+├── models/
+│   ├── __init__.py
+│   ├── r3dc.py
+│   ├── encoder.py
+│   ├── decoder.py
+│   ├── attention.py
+│   ├── cspn.py
+│   ├── heads.py
+│   └── ich.py
+├── losses/
+│   ├── __init__.py
+│   ├── depth_losses.py
+│   ├── uncertainty_losses.py
+│   └── composite_loss.py
+├── metrics/
+│   ├── __init__.py
+│   ├── depth_metrics.py
+│   └── radi.py
+├── datasets/
+│   ├── __init__.py
+│   ├── kitti.py
+│   ├── nyu.py
+│   ├── visdrone.py
+│   ├── drone_videos.py
+│   └── synthetic_depth.py
+├── utils/
+│   ├── __init__.py
+│   ├── logger.py
+│   ├── config.py
+│   ├── checkpoint.py
+│   └── transforms.py
+├── train.py
+├── evaluate.py
+└── inference.py
